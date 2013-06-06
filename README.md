@@ -41,6 +41,7 @@ notifu: http://www.paralint.com/projects/notifu/
 
 #### Mac
 growl: http://growl.info/
+growlnotify: http://growl.info/downloads#generaldownloads
 
 #### 他Unix系(Linux, FreeBSD, OpenBSD and Solaris)
 libnotify: https://developer.gnome.org/libnotify/

@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
 
 $TESTING=true
-$:.unshift File.join(File.dirname(__FILE__), '..', 'lib')
+$:.unshift File.join(__dir__, '..', 'lib')
 
